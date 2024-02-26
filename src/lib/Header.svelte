@@ -33,7 +33,7 @@
     <sl-tooltip content="Source code" placement="left">
       <a
         class="focus-visible-style"
-        href="https://github.com/liveblocks/pixel-art-together"
+        href="https://github.com/sudo-self/svelte-livebox"
         target="_blank"
       >
         <svg
