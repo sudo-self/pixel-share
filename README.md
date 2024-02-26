@@ -1,13 +1,4 @@
-# [Pixel Art Together](https://pixelart.liveblocks.app)
-
-[![Pixel Art Together](https://pixelart.liveblocks.app/og-image.png)](https://pixelart.liveblocks.app)
-
-
-[Pixel Art Together](https://pixelart.liveblocks.app) is a free multiplayer pixel art editor powered by [Liveblocks](https://liveblocks.io).
-
-
-
-
+![Screenshot 2024-02-26 at 1 34 34 AM](https://github.com/sudo-self/svelte-livebox/assets/119916323/3588a4ed-d068-4111-b527-1358dde39440)
 
 ## Features
 
